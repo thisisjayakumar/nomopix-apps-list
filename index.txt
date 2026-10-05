@@ -1,2 +1,2 @@
-https://github.com/thisisjayakumar/sync-play-music-player
+https://github.com/thisisjayakumar/linqmusic
 https://github.com/thisisjayakumar/masstamilan-app
